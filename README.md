@@ -1,4 +1,4 @@
-# LunarLander-v2 Deep Q-Network (DQN) 🚀
+# LunarLander-v2 Deep Q-Network (DQN) 
 
 This repository contains a PyTorch implementation of a **Deep Q-Network (DQN)** agent designed to solve the **LunarLander-v2** environment from OpenAI Gymnasium.
 
